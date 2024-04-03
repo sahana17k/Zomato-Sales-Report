@@ -6,7 +6,7 @@ This repository contains a Sales report of Zomato company in .pbix format. Due t
 
 ## Instructions
 
-1. **Download the .pbix file**: Click on the "Raw" button at the top-right corner of this page to download the raw .pbix file to your local machine.
+1. **Download the .pbix file**: Click on the "View raw" or "Raw" button at the top-right corner of this page to download the raw .pbix file to your local machine.
 
 2. **Open the .pbix file in Power BI Desktop**: 
     - If you haven't already, install [Power BI Desktop]([https://powerbi.microsoft.com/desktop/](https://www.microsoft.com/en-us/power-platform/products/power-bi/)).
